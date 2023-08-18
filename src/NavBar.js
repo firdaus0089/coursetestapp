@@ -10,7 +10,7 @@ const NavBar = () => {
                     <a href="index.html" className="logo d-flex align-items-center  me-auto me-lg-0">
 
                         <i className="bi bi-camera"></i>
-                        <h1>PhotoFolio111</h1>
+                        <h1>PhotoFolio</h1>
                     </a>
 
                     <nav id="navbar" className="navbar">
